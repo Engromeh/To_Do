@@ -5,9 +5,9 @@ export default function Navbar_Home() {
   const [active, setActive] = useState("Dashboard");
 
   const links = [
-    { name: "Home", href: "/" },
-    { name: "About US", href: "/team" },
-    { name: "Feature", href: "/projects" },
+    { name: "Home", href: "#home" },
+    { name: "About US", href: "#Aboutus" },
+    { name: "Feature", href: "#feature" },
     { name: "Login", href: "/calendar" },
   ];
 

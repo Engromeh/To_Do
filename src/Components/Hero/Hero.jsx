@@ -3,7 +3,7 @@ import React from 'react'
 const Hero = () => {
   return (
     <>
-      <div className="relative isolate px-6  lg:px-8">
+      <div className="relative isolate px-6  lg:px-8 bg-gray-900">
         {/* الشكل العلوي */}
         <div
           aria-hidden="true"
